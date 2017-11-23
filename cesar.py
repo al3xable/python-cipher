@@ -1,4 +1,4 @@
-# Ceasar Cipher
+# Cesar Cipher
 
 
 def offset(msg, k):

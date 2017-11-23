@@ -1,4 +1,4 @@
-# Ceasar Cipher
+# Athens Cesar Cipher
 
 
 def encrypt(msg, a, b, m = 33):
